@@ -1,0 +1,66 @@
+
+@media only screen and (min-width: 500px) {
+
+	body {
+		height: 20em;
+		width: 70%;
+		background-color: green;
+	}
+}
+
+body {
+	height: 39em;
+	width: 100%;
+	background-color: black;
+}
+
+a {
+	color: white;
+    text-decoration: none;
+    font-size: 20px;
+    bottom: 5%;
+
+}
+#link1 {
+	margin-left: 5%
+}
+#big{
+ display: flex;
+ height: 92%; 
+}
+
+#left{
+	
+	width: 50%;
+	background-color: white;
+	margin-bottom: 5%;
+
+}
+h2 {
+	text-align: center;
+	font-family: bold;
+}
+#right {
+	
+	width: 50%;
+	background-color: white;
+	margin-bottom: 5%;
+}
+p{
+	margin: 5%;
+}
+img{
+	height: 25%;
+	width: 85%;
+	margin: 5%;
+}
+#link2 {
+	margin-left: 10%;
+
+}
+
+#main {
+	background-color: white;
+	height: 90%;
+	width: 100%;
+}
